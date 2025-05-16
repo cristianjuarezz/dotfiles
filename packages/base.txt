@@ -13,4 +13,5 @@ fortune-mod
 cowsay
 fakeroot
 gcc
+neovim
 make
