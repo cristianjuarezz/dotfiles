@@ -12,3 +12,5 @@ neofetch
 fortune-mod
 cowsay
 fakeroot
+gcc
+make
