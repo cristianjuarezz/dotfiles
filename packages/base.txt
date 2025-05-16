@@ -1,0 +1,14 @@
+bash
+git
+nodejs
+npm
+docker
+curl
+wget
+nmap
+openvpn
+midori
+starship
+neofetch
+fortune-mod
+cowsay

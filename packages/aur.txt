@@ -1,0 +1,4 @@
+paru
+yay
+ani-cli
+lolcat
